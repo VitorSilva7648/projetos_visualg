@@ -1,2 +1,2 @@
-# projetos_visualg
-Codigos em portugol
+#Projetos em visualg
+Projetos desenvolvidos no curso de Lógica e algoritmos
