@@ -1,2 +1,2 @@
 # projetos_visualg
-#Codigos em portugol
+Codigos em portugol
